@@ -1,0 +1,8 @@
+author: Adie Olalekan
+author_url: https://twitter.com/AdieOlami
+github_url: https://github.com/AdieOlami/UniversalLink
+root_url: https://AdieOlami.github.io/UniversalLink/
+module: UniversalLink
+output: docs
+theme: fullwidth
+xcodebuild_arguments: [-workspace, 'UniversalLink.xcworkspace', -scheme, 'UniversalLink-iOS']
